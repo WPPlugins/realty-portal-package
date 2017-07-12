@@ -1,0 +1,806 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Realty Portal: Package\n"
+"POT-Creation-Date: 2017-06-16 15:27+0700\n"
+"PO-Revision-Date: 2017-05-05 14:33+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: realty-portal-package.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-membership.php:92
+msgid "Package Title"
+msgstr ""
+
+#: includes/class-membership.php:123
+msgid "Packages"
+msgstr ""
+
+#: includes/class-membership.php:124 includes/class-payment.php:263
+msgid "Package"
+msgstr ""
+
+#: includes/class-membership.php:125 includes/class-payment.php:178
+msgid "Add New"
+msgstr ""
+
+#: includes/class-membership.php:126
+msgid "Add Packages"
+msgstr ""
+
+#: includes/class-membership.php:127 includes/class-payment.php:180
+msgid "Edit"
+msgstr ""
+
+#: includes/class-membership.php:128
+msgid "Edit Packages"
+msgstr ""
+
+#: includes/class-membership.php:129
+msgid "New Packages"
+msgstr ""
+
+#: includes/class-membership.php:130 includes/class-payment.php:183
+msgid "View"
+msgstr ""
+
+#: includes/class-membership.php:131
+msgid "View Packages"
+msgstr ""
+
+#: includes/class-membership.php:132
+msgid "Search Packages"
+msgstr ""
+
+#: includes/class-membership.php:133
+msgid "No packages found"
+msgstr ""
+
+#: includes/class-membership.php:134
+msgid "No packages found in Trash"
+msgstr ""
+
+#: includes/class-membership.php:135
+msgid "Parent Packages"
+msgstr ""
+
+#: includes/class-membership.php:171
+msgid "Package Details"
+msgstr ""
+
+#: includes/class-membership.php:175
+msgid "Package Interval"
+msgstr ""
+
+#: includes/class-membership.php:176
+msgid "Duration time of this package."
+msgstr ""
+
+#: includes/class-membership.php:183 includes/class-payment.php:271
+msgid "Package Price"
+msgstr ""
+
+#: includes/class-membership.php:184
+msgid "The price of this package."
+msgstr ""
+
+#: includes/class-membership.php:190
+msgid "Number of properties"
+msgstr ""
+
+#: includes/class-membership.php:191
+msgid "Number of properties available for this package."
+msgstr ""
+
+#: includes/class-membership.php:198
+msgid "Number of Featured properties"
+msgstr ""
+
+#: includes/class-membership.php:199
+msgid "Number of Featured properties can make featured with this package."
+msgstr ""
+
+#: includes/class-membership.php:205
+msgid "Expire after"
+msgstr ""
+
+#: includes/class-membership.php:206
+msgid "The time after which the package will expire."
+msgstr ""
+
+#: includes/class-membership.php:213
+msgid "Package highlighted"
+msgstr ""
+
+#: includes/class-membership.php:214
+msgid ""
+"If checked, will be marked as a prominent package when using the \"Pricing "
+"Table\" shortcode."
+msgstr ""
+
+#: includes/class-membership.php:227
+msgid "Aditional Information"
+msgstr ""
+
+#: includes/class-membership.php:234
+msgid "Additional Info"
+msgstr ""
+
+#: includes/class-membership.php:235
+msgid "Add more detail for this package."
+msgstr ""
+
+#: includes/class-membership.php:256 templates/pricing-table.php:46
+msgid "Days"
+msgstr ""
+
+#: includes/class-membership.php:257 templates/pricing-table.php:50
+msgid "Weeks"
+msgstr ""
+
+#: includes/class-membership.php:258 templates/pricing-table.php:54
+msgid "Months"
+msgstr ""
+
+#: includes/class-membership.php:259 templates/pricing-table.php:58
+msgid "Years"
+msgstr ""
+
+#: includes/class-membership.php:270
+msgid "Unlimited Listing?"
+msgstr ""
+
+#: includes/class-membership.php:315
+msgid "Delete"
+msgstr ""
+
+#: includes/class-membership.php:321
+msgid "Add"
+msgstr ""
+
+#: includes/class-membership.php:474
+msgid "Free Membership"
+msgstr ""
+
+#: includes/class-membership.php:481 includes/class-membership.php:507
+msgid "Never"
+msgstr ""
+
+#: includes/class-membership.php:622
+msgid "Membership Payment"
+msgstr ""
+
+#: includes/class-package-dashboard.php:33 includes/class-payment.php:176
+msgid "Payment"
+msgstr ""
+
+#: includes/class-package-dashboard.php:49
+msgid "Select type of payment"
+msgstr ""
+
+#: includes/class-package-dashboard.php:54
+msgid "PayPal"
+msgstr ""
+
+#: includes/class-package-dashboard.php:55
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/class-package-dashboard.php:62
+msgid "PayPal Merchant Account (ID or Email)"
+msgstr ""
+
+#: includes/class-package-dashboard.php:69
+msgid "Enable PayPal Sandbox Testing"
+msgstr ""
+
+#: includes/class-package-dashboard.php:77
+msgid "Disable SSL secure connection (Not recommended)"
+msgstr ""
+
+#: includes/class-package-dashboard.php:84
+msgid "Email for sending payment notification"
+msgstr ""
+
+#: includes/class-package-dashboard.php:91
+msgid "Payment Setting"
+msgstr ""
+
+#: includes/class-package-dashboard.php:105
+msgid "Membership Type"
+msgstr ""
+
+#: includes/class-package-dashboard.php:110
+msgid "No Membership (Agents created by Admin can still submit Property)"
+msgstr ""
+
+#: includes/class-package-dashboard.php:111
+msgid "Free for all Users"
+msgstr ""
+
+#: includes/class-package-dashboard.php:112
+msgid "Membership Packages"
+msgstr ""
+
+#: includes/class-package-dashboard.php:113
+msgid "Pay per Submission"
+msgstr ""
+
+#: includes/class-package-dashboard.php:118
+msgid "Number of Expire Days"
+msgstr ""
+
+#: includes/class-package-dashboard.php:122
+msgid ""
+"No of days until a listings will expire. Starts from the moment the "
+"property is published on the website"
+msgstr ""
+
+#: includes/class-package-dashboard.php:125
+msgid "Enable Freemium Membership"
+msgstr ""
+
+#: includes/class-package-dashboard.php:131
+msgid "Number of Free Properties"
+msgstr ""
+
+#: includes/class-package-dashboard.php:138
+msgid "Number of Free Featured Properties"
+msgstr ""
+
+#: includes/class-package-dashboard.php:145
+msgid "Price per Submission"
+msgstr ""
+
+#: includes/class-package-dashboard.php:151
+msgid "Price for Featured Property"
+msgstr ""
+
+#: includes/class-package-dashboard.php:157
+msgid "Membership listing page (Page with pricing table)"
+msgstr ""
+
+#: includes/class-package-dashboard.php:163
+msgid "Submitted Properties need approve from admin?"
+msgstr ""
+
+#: includes/class-package-dashboard.php:168
+msgid "Yes, all newly added and edited properties"
+msgstr ""
+
+#: includes/class-package-dashboard.php:169
+msgid "Yes, but only newly submitted properties"
+msgstr ""
+
+#: includes/class-package-dashboard.php:170
+msgid "Don't need Admin approval"
+msgstr ""
+
+#: includes/class-package-process.php:55
+#: includes/class-package-process.php:111
+msgid "Security Breach! Please contact admin!"
+msgstr ""
+
+#: includes/class-package-process.php:86
+msgid "Create new membership successfully."
+msgstr ""
+
+#: includes/class-package-process.php:91
+msgid "Can not create new membership."
+msgstr ""
+
+#: includes/class-package-process.php:98
+#: includes/class-package-process.php:194
+msgid "Can't support this action, please contact admin."
+msgstr ""
+
+#: includes/class-package-process.php:124
+msgid "You are not logged in yet."
+msgstr ""
+
+#: includes/class-package-process.php:134
+msgid "You have no packages. Please select a package."
+msgstr ""
+
+#: includes/class-package-process.php:170
+msgid "Your purchase is successful."
+msgstr ""
+
+#: includes/class-package-process.php:175
+msgid "Your purchase is not successful."
+msgstr ""
+
+#: includes/class-package-process.php:185
+msgid "You are redirecting to Paypal..."
+msgstr ""
+
+#: includes/class-package-process.php:188
+msgid "Can not verify via paypal, please contact administration."
+msgstr ""
+
+#: includes/class-package-process.php:222 includes/class-payment.php:592
+msgid "Different Receiver"
+msgstr ""
+
+#: includes/class-package-process.php:226 includes/class-payment.php:596
+msgid "Empty Order ID"
+msgstr ""
+
+#: includes/class-package-process.php:233 includes/class-payment.php:603
+msgid "Order does not have Agent ID"
+msgstr ""
+
+#: includes/class-package-process.php:238 includes/class-payment.php:609
+msgid "Order does not have Item ID"
+msgstr ""
+
+#: includes/class-package-process.php:244 includes/class-payment.php:615
+msgid "Price or Currency does not match"
+msgstr ""
+
+#: includes/class-package-process.php:270 includes/class-payment.php:639
+msgid "Unknown order status!"
+msgstr ""
+
+#: includes/class-package-process.php:328 includes/class-payment.php:699
+#, php-format
+msgid "You have received a new payment for membership on %s"
+msgstr ""
+
+#: includes/class-package-process.php:329
+#: includes/class-package-process.php:335
+#: includes/class-package-process.php:384
+#: includes/class-package-process.php:390
+#: includes/class-package-process.php:428
+#: includes/class-package-process.php:434 includes/class-payment.php:700
+#: includes/class-payment.php:706 includes/class-payment.php:746
+#: includes/class-payment.php:752 includes/class-payment.php:789
+#: includes/class-payment.php:795
+msgid "----------------------------------------------"
+msgstr ""
+
+#: includes/class-package-process.php:330
+#: includes/class-package-process.php:385
+#: includes/class-package-process.php:429 includes/class-payment.php:701
+#: includes/class-payment.php:747 includes/class-payment.php:790
+#, php-format
+msgid "User's name: %s"
+msgstr ""
+
+#: includes/class-package-process.php:331
+#: includes/class-package-process.php:386
+#: includes/class-package-process.php:430 includes/class-payment.php:702
+#: includes/class-payment.php:748 includes/class-payment.php:791
+#, php-format
+msgid "Email address: %s"
+msgstr ""
+
+#: includes/class-package-process.php:332
+#: includes/class-package-process.php:431 includes/class-payment.php:703
+#: includes/class-payment.php:792
+#, php-format
+msgid "Package: %s"
+msgstr ""
+
+#: includes/class-package-process.php:333
+#: includes/class-package-process.php:387
+#: includes/class-package-process.php:432 includes/class-payment.php:704
+#: includes/class-payment.php:749 includes/class-payment.php:793
+#, php-format
+msgid "Amount: %s"
+msgstr ""
+
+#: includes/class-package-process.php:334
+#: includes/class-package-process.php:388
+#: includes/class-package-process.php:433 includes/class-payment.php:705
+#: includes/class-payment.php:750 includes/class-payment.php:794
+#, php-format
+msgid "Transaction #: %s"
+msgstr ""
+
+#: includes/class-package-process.php:336
+#: includes/class-package-process.php:391
+#: includes/class-package-process.php:435 includes/class-payment.php:707
+#: includes/class-payment.php:753 includes/class-payment.php:796
+msgid ""
+"You may review your invoice history at any time by logging in to backend."
+msgstr ""
+
+#: includes/class-package-process.php:338
+#: includes/class-package-process.php:437 includes/class-payment.php:708
+#: includes/class-payment.php:797
+#, php-format
+msgid "[%s] New Payment received for Membership purchase"
+msgstr ""
+
+#: includes/class-package-process.php:342
+#: includes/class-package-process.php:397
+#: includes/class-package-process.php:441 includes/class-payment.php:711
+#: includes/class-payment.php:757 includes/class-payment.php:800
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#: includes/class-package-process.php:343
+#: includes/class-package-process.php:442 includes/class-payment.php:712
+#: includes/class-payment.php:801
+#, php-format
+msgid "You have paid %s for %s membership on %s."
+msgstr ""
+
+#: includes/class-package-process.php:344
+#: includes/class-package-process.php:399
+#: includes/class-package-process.php:443 includes/class-payment.php:713
+#: includes/class-payment.php:759 includes/class-payment.php:802
+#, php-format
+msgid "Your transaction ID is: %s,"
+msgstr ""
+
+#: includes/class-package-process.php:345
+#: includes/class-package-process.php:444 includes/class-payment.php:714
+#: includes/class-payment.php:803
+msgid "Thank you and enjoy listing,"
+msgstr ""
+
+#: includes/class-package-process.php:347
+#: includes/class-package-process.php:446 includes/class-payment.php:715
+#: includes/class-payment.php:804
+#, php-format
+msgid "[%s] Payment for membership successfully processed"
+msgstr ""
+
+#: includes/class-package-process.php:373 includes/class-payment.php:737
+#, php-format
+msgid "You have received a new payment for Paid Submission on %s"
+msgstr ""
+
+#: includes/class-package-process.php:374 includes/class-payment.php:738
+#, php-format
+msgid "[%s] New Payment received for Paid Property Submission"
+msgstr ""
+
+#: includes/class-package-process.php:377 includes/class-payment.php:740
+#, php-format
+msgid "You have received a new payment for Featured property on %s"
+msgstr ""
+
+#: includes/class-package-process.php:378 includes/class-payment.php:741
+#, php-format
+msgid "[%s] New Payment received for Featured property"
+msgstr ""
+
+#: includes/class-package-process.php:381 includes/class-payment.php:743
+#, php-format
+msgid ""
+"You have received a new payment for Paid Submission and Featured property "
+"on %s"
+msgstr ""
+
+#: includes/class-package-process.php:382 includes/class-payment.php:744
+#, php-format
+msgid "[%s] New Payment received for Paid Submission and Featured property"
+msgstr ""
+
+#: includes/class-package-process.php:389 includes/class-payment.php:751
+#, php-format
+msgid "Property link: %s"
+msgstr ""
+
+#: includes/class-package-process.php:398 includes/class-payment.php:758
+#, php-format
+msgid ""
+"You have paid %s for %s property on %s. This is the link to the listing: %s"
+msgstr ""
+
+#: includes/class-package-process.php:400 includes/class-payment.php:760
+msgid "Thank you and best regards,"
+msgstr ""
+
+#: includes/class-package-process.php:402 includes/class-payment.php:761
+#, php-format
+msgid "[%s] Payment for Property listing successfully processed"
+msgstr ""
+
+#: includes/class-package-process.php:427 includes/class-payment.php:788
+#, php-format
+msgid "You have received a new recurring payment for membership on %s"
+msgstr ""
+
+#: includes/class-package-shortcode.php:42 realty-portal-package.php:243
+msgid "Buy now"
+msgstr ""
+
+#: includes/class-payment.php:174 includes/class-payment.php:177
+msgid "Orders"
+msgstr ""
+
+#: includes/class-payment.php:175
+msgid "Order"
+msgstr ""
+
+#: includes/class-payment.php:179
+msgid "Add Order"
+msgstr ""
+
+#: includes/class-payment.php:181
+msgid "Edit Order"
+msgstr ""
+
+#: includes/class-payment.php:182
+msgid "New Order"
+msgstr ""
+
+#: includes/class-payment.php:184
+msgid "View Order"
+msgstr ""
+
+#: includes/class-payment.php:185
+msgid "Search Order"
+msgstr ""
+
+#: includes/class-payment.php:186
+msgid "No payment packages found"
+msgstr ""
+
+#: includes/class-payment.php:187
+msgid "No payment packages found in Trash"
+msgstr ""
+
+#: includes/class-payment.php:188
+msgid "Parent Order"
+msgstr ""
+
+#: includes/class-payment.php:223
+msgid "Order Details"
+msgstr ""
+
+#: includes/class-payment.php:227
+msgid "Order ID"
+msgstr ""
+
+#: includes/class-payment.php:238 includes/class-payment.php:279
+#: includes/class-payment.php:391
+msgid "Payment Type"
+msgstr ""
+
+#: includes/class-payment.php:241 includes/class-payment.php:374
+#: includes/class-payment.php:419
+msgid "Membership Package"
+msgstr ""
+
+#: includes/class-payment.php:246 includes/class-payment.php:397
+msgid "Billing Type"
+msgstr ""
+
+#: includes/class-payment.php:253
+msgid "One Time"
+msgstr ""
+
+#: includes/class-payment.php:257 includes/class-payment.php:468
+msgid "Recurring"
+msgstr ""
+
+#: includes/class-payment.php:286 includes/class-payment.php:422
+msgid "Publish Listing"
+msgstr ""
+
+#: includes/class-payment.php:290 includes/class-payment.php:425
+msgid "Upgrade to Featured"
+msgstr ""
+
+#: includes/class-payment.php:294 includes/class-payment.php:428
+msgid "Publish Listing with Featured"
+msgstr ""
+
+#: includes/class-payment.php:300
+msgid "Property ID"
+msgstr ""
+
+#: includes/class-payment.php:307 includes/class-payment.php:392
+msgid "Total Price"
+msgstr ""
+
+#: includes/class-payment.php:316 includes/class-payment.php:393
+msgid "Payment Status"
+msgstr ""
+
+#: includes/class-payment.php:323 includes/class-payment.php:442
+msgid "Pending"
+msgstr ""
+
+#: includes/class-payment.php:327 includes/class-payment.php:445
+msgid "Canceled"
+msgstr ""
+
+#: includes/class-payment.php:331 includes/class-payment.php:448
+msgid "Failed"
+msgstr ""
+
+#: includes/class-payment.php:335 includes/class-payment.php:451
+msgid "Completed"
+msgstr ""
+
+#: includes/class-payment.php:339 includes/class-payment.php:454
+msgid "Reversed"
+msgstr ""
+
+#: includes/class-payment.php:345
+msgid "Purchase Date"
+msgstr ""
+
+#: includes/class-payment.php:353 realty-portal-package.php:236
+msgid "Agent"
+msgstr ""
+
+#: includes/class-payment.php:400
+msgid "by Agent"
+msgstr ""
+
+#: includes/class-payment.php:463
+msgid "Onetime Payment"
+msgstr ""
+
+#: includes/class-payment.php:470
+msgid "Recurring 1 time"
+msgstr ""
+
+#: includes/class-payment.php:472
+#, php-format
+msgid "Recurring %s times"
+msgstr ""
+
+#: includes/class-payment.php:644
+msgid "Error when processing Order"
+msgstr ""
+
+#: lib/class-paypal-framework.php:253 lib/class-paypal-framework.php:261
+msgid "Request:"
+msgstr ""
+
+#: lib/class-paypal-framework.php:255 lib/class-paypal-framework.php:263
+#: lib/class-paypal-framework.php:357 lib/paypal-framework.php:127
+msgid "Response:"
+msgstr ""
+
+#: lib/class-paypal-framework.php:257
+msgid "PayPal Framework - hashCall sent successfully"
+msgstr ""
+
+#: lib/class-paypal-framework.php:265
+msgid "PayPal Framework - hashCall failed"
+msgstr ""
+
+#: lib/class-paypal-framework.php:353 lib/paypal-framework.php:123
+msgid "URL:"
+msgstr ""
+
+#: lib/class-paypal-framework.php:355 lib/paypal-framework.php:125
+msgid "Options:"
+msgstr ""
+
+#: lib/class-paypal-framework.php:359 lib/paypal-framework.php:129
+msgid "Post:"
+msgstr ""
+
+#: lib/paypal-framework.php:136
+msgid "IPN Listener Test - Validation Succeeded"
+msgstr ""
+
+#: lib/paypal-framework.php:142
+msgid "IPN Listener Test - Validation Failed"
+msgstr ""
+
+#: lib/paypal-framework.php:159
+#, php-format
+msgid "IPN Listener Test - %s"
+msgstr ""
+
+#: lib/paypal-framework.php:166
+#, php-format
+msgid "Actions thrown: %s"
+msgstr ""
+
+#: lib/paypal-framework.php:168
+#, php-format
+msgid "Passed to actions: %s"
+msgstr ""
+
+#: lib/product-package.php:29
+msgid "Cant not update product"
+msgstr ""
+
+#: lib/product-package.php:43
+msgid "Cant not create product"
+msgstr ""
+
+#: lib/woocommerce-checkout.php:204
+#, php-format
+msgid "%s - Purchase package: %s"
+msgstr ""
+
+#: lib/woocommerce-checkout.php:244
+#, php-format
+msgid "%s - Payment for %s"
+msgstr ""
+
+#: realty-portal-package.php:87
+msgid ""
+"The <strong>Realty Portal: Package</strong> only works after <strong>Realty "
+"Portal: Agent</strong> is activated, please activate it"
+msgstr ""
+
+#: realty-portal-package.php:191
+msgctxt "Page slug"
+msgid "pricing-table"
+msgstr ""
+
+#: realty-portal-package.php:192
+msgctxt "Page title"
+msgid "Pricing Table"
+msgstr ""
+
+#: realty-portal-package.php:233
+msgid "RP Pricing Table"
+msgstr ""
+
+#: realty-portal-package.php:240
+msgid "Button Text"
+msgstr ""
+
+#: templates/pricing-table.php:45
+msgid "Day"
+msgstr ""
+
+#: templates/pricing-table.php:49
+msgid "Week"
+msgstr ""
+
+#: templates/pricing-table.php:53
+msgid "Month"
+msgstr ""
+
+#: templates/pricing-table.php:57
+msgid "Year"
+msgstr ""
+
+#: templates/pricing-table.php:77
+msgid "Unlimited"
+msgstr ""
+
+#: templates/pricing-table.php:118
+#, php-format
+msgid "%s %ss Listing Duration"
+msgstr ""
+
+#: templates/pricing-table.php:146
+msgid "Sorry, no package matched your criteria."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#. Description of the plugin/theme
+msgid "Realty Portal: Package"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://nootheme.com"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "NooTeam"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://nootheme.com/"
+msgstr ""
